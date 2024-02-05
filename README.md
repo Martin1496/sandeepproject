@@ -1,2 +1,2 @@
 # sandeepproject
-this project is about web scraper using python. 
+this project is about web scraping using python. 
